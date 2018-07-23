@@ -18,4 +18,3 @@
 * Antman
 * Capitan America
 * Nick Fury
-* Donald Trump
