@@ -17,3 +17,4 @@
 * Wasp
 * Antman
 * Capitan America
+* Nick Fury
